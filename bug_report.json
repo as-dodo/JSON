@@ -5,7 +5,7 @@
   "title": "Pushing the button buy a ticket",
   "step1": "Open the main page of the website blalala.rrr",
   "step2": "Click the button Buy a ticket",
-  "actualResult": "Opening of the page with info about the exhibition"
+  "actualResult": "Opening of the page with info about the exhibition",
   "expectedResult": "Opening of the page with choosing a date and time of the exhibition to visit"
 }
   
